@@ -2,4 +2,3 @@
 
 - 研修
 - sss
-rensyu
